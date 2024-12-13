@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali Reza",
+      "email": "ali.reza@example.com",
+      "age": 28
+    },
+    {
+      "id": "2",
+      "name": "Sara Aliyeva",
+      "email": "sara.aliyeva@example.com",
+      "age": 32
+    },
+    {
+      "id": "3",
+      "name": "Elvin Mammadov",
+      "email": "elvin.mammadov@example.com",
+      "age": 25
+    },
+    {
+      "id": "4",
+      "name": "Nigar Muradova",
+      "email": "nigar.muradova@example.com",
+      "age": 27
+    }
+  ]
+}
